@@ -20,4 +20,3 @@ Check out the live demo [here](https://sumo90.github.io/Simple-Calculator)
 
 - **HTML5**: Markup for creating the structure of the calculator.
 - **CSS3**: Styling for a modern and responsive UI.
-- **JavaScript**: Logic for handling calculations and user interactions.
