@@ -14,7 +14,7 @@ Check out the live demo [here](https://sumo90.github.io/Simple-Calculator)
 
 ## Screenshot
 
-![Screenshot](path-to-your-calculator-screenshot.png)  <!-- Add a screenshot of your calculator -->
+![Screenshot](Screenshot.png) 
 
 ## Technologies Used
 
