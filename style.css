@@ -7,6 +7,9 @@
     box-sizing: border-box;
 
 }
+body{
+    animation: fadeInAnimation ease 2s;
+}
 
 .container {
     background-color: #e3f9ff;
@@ -15,7 +18,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    animation: fadeInAnimation ease 2s;
+    
 
 }
 
@@ -75,4 +78,12 @@ form input.operator {
     bottom: 0;
     justify-content: top;
     opacity: 75%;
+}
+@keyframes fadeInAnimation {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
